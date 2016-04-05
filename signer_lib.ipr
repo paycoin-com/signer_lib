@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions>
+      <entry name=".+\.(properties|xml|html|dtd|tld)" />
+      <entry name=".+\.(gif|png|jpeg|jpg)" />
+    </resourceExtensions>
+    <wildcardResourcePatterns>
+      <entry name="!?*.groovy" />
+      <entry name="!?*.java" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="signer_lib_main" target="1.6" />
+      <module name="signer_lib_test" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="CopyrightManager" default="" />
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1444027515602" />
+    <option name="name" value="default" />
+    <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../dcs/git_repo/dcs/formatter.java.kb.dcs.xml" />
+    <option name="selectedJavaProfile" value="formatter.java.kb.dcs" />
+    <option name="useOldEclipseJavaFormatter" value="true" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/programs/gradle-2.3" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+  <component name="GradleUISettings">
+    <setting name="root" />
+  </component>
+  <component name="GradleUISettings2">
+    <setting name="root" />
+  </component>
+  <component name="IdProvider" IDEtalkID="11DA1DB66DD62DDA1ED602B7079FE97C" />
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="true" />
+    <option name="OPTION_NAVIGATOR" value="true" />
+    <option name="OPTION_INDEX" value="true" />
+    <option name="OPTION_SEPARATE_INDEX" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
+    <option name="OPTION_DEPRECATED_LIST" value="true" />
+    <option name="OTHER_OPTIONS" value="" />
+    <option name="HEAP_SIZE" />
+    <option name="LOCALE" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/signer_lib.iml" filepath="$PROJECT_DIR$/.idea/modules/signer_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/signer_lib_main.iml" filepath="$PROJECT_DIR$/.idea/modules/signer_lib_main.iml" group="signer_lib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/signer_lib_test.iml" filepath="$PROJECT_DIR$/.idea/modules/signer_lib_test.iml" group="signer_lib" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="libraryTable">
+    <library name="Gradle: com.itextpdf:itextpdf:5.5.9">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/itextpdf/5.5.9/af7e24e11af3aeb7f25dfe342b050dd1618f2a54/itextpdf-5.5.9.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/itextpdf/5.5.9/287955811c52cf0218f3f5266e51f6b797b3164f/itextpdf-5.5.9-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.bouncycastle:bcpkix-jdk15on:1.54">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.54/b11bfee99bb11eea344de6e4a07fe89212c55c02/bcpkix-jdk15on-1.54.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.54/d821c78eae9e1abe83ec52985a0f5e206bfd61ab/bcpkix-jdk15on-1.54-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.bouncycastle:bcprov-ext-jdk15on:1.54">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-ext-jdk15on/1.54/8abae535dafbc48b379071efa7372bce1aa9782/bcprov-ext-jdk15on-1.54.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-ext-jdk15on/1.54/27cf7631a904e6b98d9842db13e09a22e524eee4/bcprov-ext-jdk15on-1.54-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.bouncycastle:bcprov-jdk15on:1.54">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.54/1acdedeb89f1d950d67b73d481eb7736df65eedb/bcprov-jdk15on-1.54.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.54/27cf7631a904e6b98d9842db13e09a22e524eee4/bcprov-jdk15on-1.54-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-runtime:1.0.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.1/124852ea8cdd3d89827923b5e79627e8a7c314b2/kotlin-runtime-1.0.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.1/d0bb90d326a025f64913987c5a5b2ac3741a71ae/kotlin-runtime-1.0.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.0.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.1/68cddd9aec83d23f789f72bfdc933db245c4a635/kotlin-stdlib-1.0.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.1/9091b281f35a363664466c2fc30430cff1d47069/kotlin-stdlib-1.0.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+      <state key="Copyright.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+        </UIState>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl>
+              <option name="proportions">
+                <list>
+                  <option value="0.2" />
+                </list>
+              </option>
+            </SplitterProportionsDataImpl>
+          </splitter-proportions>
+          <last-edited>1.6</last-edited>
+        </UIState>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+    </states>
+  </component>
+</project>

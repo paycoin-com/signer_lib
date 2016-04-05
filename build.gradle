@@ -1,0 +1,66 @@
+buildscript {
+
+    //ext.kotlin_version = '1.0.1-2'
+    ext.kotlin_version = '1.0.1'
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+apply plugin: 'kotlin'
+apply plugin: 'application'
+//apply plugin: 'kotlin2js'
+//apply plugin: 'java'
+//apply plugin: 'idea'
+
+mainClassName = 'cz.pdfsign.Main'
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    //compile "org.jetbrains.kotlin:kotlin-js-library:$kotlin_version"
+    compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+
+    compile 'com.itextpdf:itextpdf:5.5.9'
+
+    compile 'org.bouncycastle:bcprov-jdk15on:1.54'
+    compile 'org.bouncycastle:bcprov-ext-jdk15on:1.54'
+    compile 'org.bouncycastle:bcpkix-jdk15on:1.54'
+}
+
+//task jarSources(type:Jar){
+//    from sourceSets.main.allSource
+//    classifier = 'source'
+//}
+//artifacts {
+//    compile jarSources
+//}
+
+//def outDir = "${buildDir}/kotlin2js/main/"
+
+//compileKotlin2Js.kotlinOptions.outputFile = outDir + "test-library.js"
+
+//jar {
+//    from sourceSets.main.allSource
+//    include "**/*.kt"
+//
+//    from outDir
+//    include "**/*.js"
+//
+//    manifest {
+//        attributes(
+//                "Specification-Title": "Kotlin JavaScript Lib",
+//                "Kotlin-JS-Module-Name": "test-library"
+//        )
+//    }
+//}
+
+//jar.dependsOn(compileKotlin2Js)
