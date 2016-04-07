@@ -90,41 +90,17 @@
   <component name="SvnBranchConfigurationManager">
     <option name="mySupportsUserInfoFilter" value="true" />
   </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
   <component name="libraryTable">
-    <library name="Gradle: com.itextpdf:itextpdf:5.5.9">
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-js-library:1.0.1">
       <CLASSES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/itextpdf/5.5.9/af7e24e11af3aeb7f25dfe342b050dd1618f2a54/itextpdf-5.5.9.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-js-library/1.0.1/652e061cb4664cd114201f0511c30e688dbf7ab7/kotlin-js-library-1.0.1.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/itextpdf/5.5.9/287955811c52cf0218f3f5266e51f6b797b3164f/itextpdf-5.5.9-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Gradle: org.bouncycastle:bcpkix-jdk15on:1.54">
-      <CLASSES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.54/b11bfee99bb11eea344de6e4a07fe89212c55c02/bcpkix-jdk15on-1.54.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.54/d821c78eae9e1abe83ec52985a0f5e206bfd61ab/bcpkix-jdk15on-1.54-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Gradle: org.bouncycastle:bcprov-ext-jdk15on:1.54">
-      <CLASSES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-ext-jdk15on/1.54/8abae535dafbc48b379071efa7372bce1aa9782/bcprov-ext-jdk15on-1.54.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-ext-jdk15on/1.54/27cf7631a904e6b98d9842db13e09a22e524eee4/bcprov-ext-jdk15on-1.54-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Gradle: org.bouncycastle:bcprov-jdk15on:1.54">
-      <CLASSES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.54/1acdedeb89f1d950d67b73d481eb7736df65eedb/bcprov-jdk15on-1.54.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.54/27cf7631a904e6b98d9842db13e09a22e524eee4/bcprov-jdk15on-1.54-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-js-library/1.0.1/74a41d951706a2525e9603d3daca8b1c372ce885/kotlin-js-library-1.0.1-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Gradle: org.jetbrains.kotlin:kotlin-runtime:1.0.1">
