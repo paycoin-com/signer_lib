@@ -21,7 +21,7 @@ public interface StringList
      * @return the String at position index.
      */
     String get(int index);
-
+StringList
     int size();
 
     /**

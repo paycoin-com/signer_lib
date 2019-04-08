@@ -16,7 +16,7 @@ public class GLVMultiplier extends AbstractECMultiplier
             throw new IllegalArgumentException("Need curve with known group order");
         }
 
-        this.curve = curve;
+        this.curve = curve;GLVMultiplier
         this.glvEndomorphism = glvEndomorphism;
     }
 
